@@ -1,6 +1,6 @@
 <!--- ![Image](https://github.com/user-attachments/assets/e521d1cf-6e01-49c9-a9af-f2f458979635) --->
 
-# ⏳ **Relógio de Ponteiro Digital**
+# 🕒 **Relógio de Ponteiro Digital**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e521d1cf-6e01-49c9-a9af-f2f458979635">
